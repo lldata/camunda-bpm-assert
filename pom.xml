@@ -46,7 +46,7 @@
         <version.mockito>1.10.19</version.mockito>
         <version.powermock>1.6.4</version.powermock>
         <version.junit>4.12</version.junit>
-        <version.assertj>1.7.1</version.assertj>
+        <version.assertj>2.6.0</version.assertj>
     </properties>
 
     <dependencyManagement>
